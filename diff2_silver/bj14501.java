@@ -13,7 +13,7 @@ class Counsel {
     }
 }
 
-public class Main{
+public class bj14501{
     static public void main(String[] args) throws Exception
     {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -9,7 +9,7 @@ enum Rotation {
     none
 };
 
-public class Main
+public class bj14891
 {
     static final int GEAR_QUANTITY = 4;
     

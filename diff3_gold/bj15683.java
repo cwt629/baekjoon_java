@@ -23,7 +23,7 @@ class CCTV {
     }
 }
 
-public class Main{
+public class bj15683{
     // 각 CCTV의 가능한 감시 방향들
     static final Direction[][][] CCTV_DIRECTIONS = new Direction[][][]{
         // type 1

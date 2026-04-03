@@ -10,7 +10,7 @@ enum Direction {
     down
 };
 
-public class Main{
+public class bj14499{
     static final Direction[] DIRECTIONS = new Direction[]{
         Direction.right, Direction.left, Direction.up, Direction.down
     };

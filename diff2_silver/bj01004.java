@@ -15,7 +15,7 @@ class Planet {
     }
 }
 
-public class Main {
+public class bj01004 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
